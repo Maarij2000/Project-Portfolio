@@ -4,9 +4,7 @@ Personal Projects
 - AI Research on Human-Robot Coexistance
 - Predict cause of UAE traffic accidents using 2021 UAE accidents dataset and accident size in UAE using 2013-2019 UAE accidents dataset while taking other factors into account like weather condition, road condition and so on.
 - Data Lake implementation for FortyGuard, which is a company that provides outdoor weather data analysis services
-- 
-- QueryCure
-This project is a C++ application that integrates with an Oracle database using the sqlAPI++ library. It includes a graphical user interface built using the wxWidgets library.
+- QueryCure- This project is a C++ application that integrates with an Oracle database using the sqlAPI++ library. It includes a graphical user interface built using the wxWidgets library.
 
 Project Scope & Objectives
 Query Cure is a database diagnosis tool which is made using C++. It can be installed on any client/server where the diagnosis is run. The tool will gain insights based on the database and display suggestions on how to improve the performance such as denormalization, indexing, clustering, etc. It involves the following components:
